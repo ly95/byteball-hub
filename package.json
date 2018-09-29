@@ -15,11 +15,11 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteball-hub.git",
+    "url": "git://github.com/ly95/byteball-hub.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/byteball-hub/issues"
+    "url": "https://github.com/ly95/byteball-hub/issues"
   },
   "browser": {
     "request": "browser-request",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "apn": "^2.2.0",
-    "byteball-relay": "git+https://github.com/byteball/byteball-relay.git",
+    "byteball-relay": "git+https://github.com/ly95/byteball-relay.git",
     "request": "^2.81.0"
   }
 }
